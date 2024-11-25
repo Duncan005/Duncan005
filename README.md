@@ -1,5 +1,8 @@
-# 💫 About Me:
-🌱 I’m currently learning Git, GitHub, and web development.<br>👀 I’m interested in software engineering, web development, and AI.<br>💞️ I’m looking to collaborate on open-source projects related to web development and AI.<br>⚽ Fun fact: I enjoy playing football and love to travel.
+💫 About Me:
+🌱 Currently Learning: Enhancing my skills in Git, GitHub, and advanced web development.
+👀 Career Aspirations: Aspiring software engineer with a passion for web development and artificial intelligence.
+💞️ Collaboration Goals: Excited to collaborate on open-source projects, particularly in web development and AI innovations.
+⚽ Fun Fact: When I’m not coding, you’ll find me on the football field or exploring new travel destinations.
 
 
 ## 🌐 Socials:
